@@ -279,7 +279,7 @@ MIT License - See LICENSE file for details
 ## 👨‍💻 Author
 
 **Badr-Eddine NAJIM**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Najim](https://github.com/NAJIMx0)
 - LinkedIn: [najim-badr-eddine](https://linkedin.com/in/najim-badr-eddine)
 
 ## 🎓 Academic Context
