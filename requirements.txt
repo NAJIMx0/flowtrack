@@ -1,0 +1,13 @@
+# FlowTrack Dependencies
+
+# Core dependencies
+psutil>=5.9.0
+scapy>=2.5.0
+python-nmap>=0.7.1
+
+# GUI
+# tkinter is included with Python standard library
+
+# Optional
+# For better performance
+pyinstaller>=5.0.0  # For creating executable
